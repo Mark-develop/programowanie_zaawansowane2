@@ -1,0 +1,15 @@
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\bin\Debug\net7.0\OrderApp.exe
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\bin\Debug\net7.0\OrderApp.deps.json
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\bin\Debug\net7.0\OrderApp.runtimeconfig.json
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\bin\Debug\net7.0\OrderApp.dll
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\bin\Debug\net7.0\OrderApp.pdb
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.csproj.AssemblyReference.cache
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.AssemblyInfo.cs
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.dll
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\refint\OrderApp.dll
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.pdb
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\OrderApp.genruntimeconfig.cache
+C:\Users\markl\source\repos\programowanie_zaawansowane2\SimpleOrderApp\OrderApp\obj\Debug\net7.0\ref\OrderApp.dll
