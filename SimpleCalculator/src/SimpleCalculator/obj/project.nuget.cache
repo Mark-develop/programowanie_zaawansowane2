@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3Z4FiSq77R3C/ay7JUrME2WKuz5gD2JsE+c6q7X5YbwSgaFRaXCWvts2+4nfzP9imV5/g90XmNHa7MhaWRYog==",
+  "dgSpecHash": "uy42CoqWhEA4dClbhrqpNR82HPPpNblJ5rDejJGbzr3IizNQlBMzOgiFwKunlreSpQYYGp7f/b1VlXVeE7h7eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\markl\\source\\repos\\SimpleCalculator\\src\\SimpleCalculator\\SimpleCalculator.csproj",
+  "projectFilePath": "C:\\Users\\markl\\source\\repos\\programowanie_zaawansowane2\\SimpleCalculator\\src\\SimpleCalculator\\SimpleCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\markl\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
     "C:\\Users\\markl\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",

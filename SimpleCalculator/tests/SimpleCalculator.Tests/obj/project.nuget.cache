@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qlSwiMDBMq99CVicJw8jTUEDJLWvICqIrKl9Vu4wPcveKeNrpHIwKhqT6a0ITpcqf7uj2HJoSVHsfjBlkCCWhg==",
+  "dgSpecHash": "RJrg5DUcjK03ixNc6FWQFmAKml3Gko95TTFmqJ2kz74EfT56aZtahbbH7htzCx5GJRqPpNKcEF/WhbJ7peFuSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\markl\\source\\repos\\SimpleCalculator\\tests\\SimpleCalculator.Tests\\SimpleCalculator.Tests.csproj",
+  "projectFilePath": "C:\\Users\\markl\\source\\repos\\programowanie_zaawansowane2\\SimpleCalculator\\tests\\SimpleCalculator.Tests\\SimpleCalculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\markl\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\markl\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
